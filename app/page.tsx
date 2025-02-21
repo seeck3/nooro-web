@@ -87,7 +87,7 @@ export default function Home() {
                 className="w-[56px]"
               />
               <span className="text-[#808080] font-extrabold">
-                You don't have any tasks registered yet.
+                {`You don't have any tasks registered yet.`}
               </span>
               <span className="text-[#808080]">
                 Create tasks and organize your to-do items
